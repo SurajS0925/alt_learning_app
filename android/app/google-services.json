@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "362467571397",
+    "project_id": "emo-pot",
+    "storage_bucket": "emo-pot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362467571397:android:05661b387ec70fecefa2ac",
+        "android_client_info": {
+          "package_name": "com.example.alt_learning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362467571397-c020lkdei47qmjrv83f7l8bhds0nlcgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_NgGVop1BD0gKwGHvRRHLqE_JSS0geE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362467571397-c020lkdei47qmjrv83f7l8bhds0nlcgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362467571397:android:dffaf45925f6ff80efa2ac",
+        "android_client_info": {
+          "package_name": "com.example.learning_myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362467571397-c020lkdei47qmjrv83f7l8bhds0nlcgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_NgGVop1BD0gKwGHvRRHLqE_JSS0geE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362467571397-c020lkdei47qmjrv83f7l8bhds0nlcgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
